@@ -233,6 +233,7 @@ let oddChecker = thatsOdd(12);
 */
 
 //CODE HERE
+const bestMovie = (title) => {return `${title} is the best movie ever!`};
 
 
 ////////////////// PROBLEM 15 ////////////////////
